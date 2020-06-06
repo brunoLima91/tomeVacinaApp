@@ -1,0 +1,9 @@
+C:\Users\bruno\OneDrive\Documentos\PosEngSoft\AnaliseProjetoAlgo\TomeVacina\src\TomeVacina.Business\bin\Debug\netcoreapp3.1\TomeVacina.Business.deps.json
+C:\Users\bruno\OneDrive\Documentos\PosEngSoft\AnaliseProjetoAlgo\TomeVacina\src\TomeVacina.Business\bin\Debug\netcoreapp3.1\TomeVacina.Business.dll
+C:\Users\bruno\OneDrive\Documentos\PosEngSoft\AnaliseProjetoAlgo\TomeVacina\src\TomeVacina.Business\bin\Debug\netcoreapp3.1\TomeVacina.Business.pdb
+C:\Users\bruno\OneDrive\Documentos\PosEngSoft\AnaliseProjetoAlgo\TomeVacina\src\TomeVacina.Business\obj\Debug\netcoreapp3.1\TomeVacina.Business.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\PosEngSoft\AnaliseProjetoAlgo\TomeVacina\src\TomeVacina.Business\obj\Debug\netcoreapp3.1\TomeVacina.Business.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\PosEngSoft\AnaliseProjetoAlgo\TomeVacina\src\TomeVacina.Business\obj\Debug\netcoreapp3.1\TomeVacina.Business.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\PosEngSoft\AnaliseProjetoAlgo\TomeVacina\src\TomeVacina.Business\obj\Debug\netcoreapp3.1\TomeVacina.Business.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\PosEngSoft\AnaliseProjetoAlgo\TomeVacina\src\TomeVacina.Business\obj\Debug\netcoreapp3.1\TomeVacina.Business.dll
+C:\Users\bruno\OneDrive\Documentos\PosEngSoft\AnaliseProjetoAlgo\TomeVacina\src\TomeVacina.Business\obj\Debug\netcoreapp3.1\TomeVacina.Business.pdb
